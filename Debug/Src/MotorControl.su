@@ -1,0 +1,13 @@
+MotorControl.c:5:6:motorInit	4	static
+MotorControl.c:20:6:motor1_move	16	static
+MotorControl.c:40:6:motor1_enable	4	static
+MotorControl.c:45:6:motor1_disable	4	static
+MotorControl.c:51:6:motor2_move	16	static
+MotorControl.c:73:6:motor2_enable	8	static
+MotorControl.c:78:6:motor2_disable	4	static
+MotorControl.c:84:6:motor3_move	16	static
+MotorControl.c:106:6:motor3_enable	8	static
+MotorControl.c:111:6:motor3_disable	4	static
+MotorControl.c:117:6:motor4_move	16	static
+MotorControl.c:139:6:motor4_enable	8	static
+MotorControl.c:144:6:motor4_disable	4	static

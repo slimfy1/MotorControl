@@ -1,0 +1,10 @@
+STLib.c:11:6:DWT_Init	4	static
+STLib.c:21:26:delta	16	static
+STLib.c:26:6:delay_us	24	static
+STLib.c:33:6:delay_ms	24	static
+STLib.c:40:5:FRQ_CALCULATOR	24	static
+STLib.c:49:6:TIM_Init	4	static
+STLib.c:62:6:TIM_EN	4	static
+STLib.c:66:6:TIM_DISABLE	4	static
+STLib.c:70:6:SET_PWM	16	static
+STLib.c:76:6:SET_FRQ	24	static
